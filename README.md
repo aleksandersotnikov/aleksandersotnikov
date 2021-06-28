@@ -1,1 +1,1 @@
-For communication - write here.
+For communication - create new issue. Thanks!
